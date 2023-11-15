@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @syn-senglert!
+- 💼 I’m working at [synatix](https://synatix.com).
+- 🌱 I’m currently learning Redis, ELK and Rust.
+- 📫 Reach me via s.englert at synatix.com or @englerts:matrix.org
